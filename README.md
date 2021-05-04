@@ -27,5 +27,4 @@ The Human Activity Recognition dataset was built from the recordings of 30 study
 
    11.Selecting the best model and making predictions
 
-   12.Develop the Flask API for the selected model
-
+   
